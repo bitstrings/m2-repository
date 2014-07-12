@@ -5,20 +5,32 @@
   <version>3.13.2-bitstrings-1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140710.211714</timestamp>
+      <timestamp>20140712.044339</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140710211714</lastUpdated>
+    <lastUpdated>20140712044339</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>3.13.2-bitstrings-1-20140710.211714-1</value>
-        <updated>20140710211714</updated>
+        <value>3.13.2-bitstrings-1-20140712.044339-1</value>
+        <updated>20140712044339</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.13.2-bitstrings-1-20140710.211714-1</value>
-        <updated>20140710211714</updated>
+        <value>3.13.2-bitstrings-1-20140712.044339-1</value>
+        <updated>20140712044339</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>3.13.2-bitstrings-1-20140712.044339-1</value>
+        <updated>20140712044339</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>3.13.2-bitstrings-1-20140712.044339-1</value>
+        <updated>20140712044339</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

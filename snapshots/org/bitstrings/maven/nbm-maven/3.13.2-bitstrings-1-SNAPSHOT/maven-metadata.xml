@@ -5,15 +5,15 @@
   <version>3.13.2-bitstrings-1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140710.211713</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20140712.044336</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20140710211713</lastUpdated>
+    <lastUpdated>20140712044336</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.13.2-bitstrings-1-20140710.211713-1</value>
-        <updated>20140710211713</updated>
+        <value>3.13.2-bitstrings-1-20140712.044336-2</value>
+        <updated>20140712044336</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
