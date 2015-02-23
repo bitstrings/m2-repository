@@ -5,7 +5,8 @@
   <versioning>
     <versions>
       <version>3.13.2-bitstrings-1-SNAPSHOT</version>
+      <version>3.14-bitstrings-1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140723175008</lastUpdated>
+    <lastUpdated>20150223201935</lastUpdated>
   </versioning>
 </metadata>

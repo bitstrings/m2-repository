@@ -3,10 +3,11 @@
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>nbm-maven-plugin</artifactId>
   <versioning>
-    <latest>3.13.2-bitstrings-1-SNAPSHOT</latest>
+    <latest>3.14-bitstrings-1-SNAPSHOT</latest>
     <versions>
       <version>3.13.2-bitstrings-1-SNAPSHOT</version>
+      <version>3.14-bitstrings-1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140723175015</lastUpdated>
+    <lastUpdated>20150223201941</lastUpdated>
   </versioning>
 </metadata>
