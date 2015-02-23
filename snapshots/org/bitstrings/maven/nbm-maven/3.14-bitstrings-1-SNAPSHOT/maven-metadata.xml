@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.bitstrings.maven</groupId>
+  <artifactId>nbm-maven</artifactId>
+  <version>3.14-bitstrings-1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150223.201932</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20150223201932</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.14-bitstrings-1-20150223.201932-2</value>
+        <updated>20150223201932</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
