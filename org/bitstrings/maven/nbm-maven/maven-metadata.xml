@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.bitstrings.maven</groupId>
+  <artifactId>nbm-maven</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1-bitstrings-1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151201045330</lastUpdated>
+  </versioning>
+</metadata>

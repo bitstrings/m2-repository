@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>NBM Maven Plugin</name>
+      <prefix>nbm</prefix>
+      <artifactId>nbm-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
