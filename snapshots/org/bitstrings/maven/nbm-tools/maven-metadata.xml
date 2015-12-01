@@ -4,8 +4,8 @@
   <artifactId>nbm-tools</artifactId>
   <versioning>
     <versions>
-      <version>3.14-bitstrings-1-SNAPSHOT</version>
+      <version>4.1-bitstrings-1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150323202022</lastUpdated>
+    <lastUpdated>20151201045334</lastUpdated>
   </versioning>
 </metadata>
